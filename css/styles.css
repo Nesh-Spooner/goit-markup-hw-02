@@ -85,6 +85,7 @@ body {
   font-size: 14px;
   line-height: 1.172;
   letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 .adva-text {
   color: var(--sec-color);
