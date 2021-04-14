@@ -3,13 +3,13 @@
   --sec-font: 'Raleway', sans-serif;
   --main-color: #212121;
   --sec-color: #757575;
-  --focus-color: #2196F3;
-  --btn-color: #F5F4FA;
-  --background-color: #2F303A;
+  --focus-color: #2196f3;
+  --btn-color: #f5f4fa;
+  --background-color: #2f303a;
 }
 body {
   font-family: var(--main-font);
-  color: var(--main-color)
+  color: var(--main-color);
 }
 
 /* ======================== HEADER ======================== */
@@ -26,7 +26,7 @@ body {
 .nav-item {
   color: var(--main-color);
 }
-.nav-contact-item{
+.nav-contact-item {
   color: var(--sec-color);
 }
 .nav-item:hover,
@@ -58,12 +58,12 @@ body {
 /* ======================== ROZWIĄZANIA ======================== */
 
 .section-title-heading {
-font-weight: 900;
-font-size: 44px;
-line-height: 1.363;
-letter-spacing: 0.06em;
-text-transform: uppercase;
-color: #FFFFFF;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.363;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #ffffff;
 }
 .section-title {
   background-color: var(--background-color);
@@ -74,7 +74,7 @@ color: #FFFFFF;
   font-size: 16px;
   line-height: 1.875;
   letter-spacing: 0.06em;
-  color: #FFFFFF;
+  color: #ffffff;
   border: none;
 }
 
@@ -140,7 +140,7 @@ color: #FFFFFF;
   list-style: none;
 }
 .teammate {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 
 /* ======================== FOOTER ======================== */
@@ -153,7 +153,7 @@ color: #FFFFFF;
   line-height: 1.714;
   letter-spacing: 0.03em;
   text-decoration: none;
-  color: #FFFFFF;
+  color: #ffffff;
   font-style: normal;
 }
 .address-list {
@@ -178,7 +178,7 @@ color: #FFFFFF;
 .btn-portfolio:hover,
 .btn-portfolio:focus {
   background-color: var(--focus-color);
-  color: #FFFFFF;
+  color: #ffffff;
   cursor: pointer;
 }
 .btn-list {
